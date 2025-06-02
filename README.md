@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Ciao! 
+I’m currently working on a Shopify store.
+I’m looking for help with Shopify and Wordpress.
+I’m currently learning a lot about coding, specifically CSS, and quickly!
 <!--
 **amolinaro198/amolinaro198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
